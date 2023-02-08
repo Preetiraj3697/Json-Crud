@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "The name of the preeti",
+      "author": "Partik Rothfuss. ",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b8oNwaV1L.jpg",
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the invasion by Europeans during the late 19th century. I",
+      "id": 1
+    },
+    {
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/ThingsFallApart.jpg/220px-ThingsFallApart.jpg",
+      "description": "Things Fall Apart is the debut novel by Nigerian author Chinua Achebe, first published in 1958. It depicts pre-colonial life in the southeastern part of Nigeria and the invasion by Europeans during the late 19th century. I",
+      "id": 2
+    }
+  ]
+}
